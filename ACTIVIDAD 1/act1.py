@@ -8,7 +8,7 @@ def max(num1,num2):
         
 max (2,3)
 
-
+def max_de_tres(numero1,numero2,numero3):
 
 
 
